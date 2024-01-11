@@ -17,4 +17,7 @@ echo "Conexión exitosa a la base de datos";
 
 // Cerrar la conexión
 $conn->close();
+
+
+echo "Hola esto es una prueba";
 ?>
